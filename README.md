@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![image](./images//site-image.png "Site image")
+![image](./images//site_image.png "Site image")
 
 </div>
 
